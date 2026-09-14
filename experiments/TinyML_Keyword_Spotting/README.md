@@ -88,6 +88,7 @@ TinyML_Keyword_Spotting/
     ├── CMakeLists.txt
     ├── partitions.csv
     ├── sdkconfig.defaults
+    ├── dependencies.lock
     |
     ├── components/
     │   └── kissfft/
@@ -98,6 +99,7 @@ TinyML_Keyword_Spotting/
     │       ├── kiss_fftr.h
     │       ├── _kiss_fft_guts.h
     │       ├── kiss_fft_log.h
+            ├── COPYING.txt
     │       └── LICENSE
     |
     └── main/
