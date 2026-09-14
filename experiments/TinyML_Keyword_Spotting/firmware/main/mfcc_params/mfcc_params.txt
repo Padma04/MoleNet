@@ -48,8 +48,8 @@ hann_window.bin
 shape = (800,)
 float32
 
-mel_filterbank.bin
-shape = (513, 128)
+mel_filterbank_transposed.bin
+shape = (128, 513)
 float32 row-major
 
 dct_matrix.bin
